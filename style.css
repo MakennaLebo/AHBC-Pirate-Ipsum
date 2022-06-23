@@ -1,0 +1,20 @@
+#ship{
+    float: right;
+    border-color: #ddd;
+    box-shadow: #999;
+    width: 600px;
+    
+}
+
+header{
+    font-family: 'Seaweed Script';
+}
+
+#treasure{
+    float: left;
+    border-color: #ddd;
+    box-shadow: #999;
+    width: 300px;
+    height: 300px;
+}
+
